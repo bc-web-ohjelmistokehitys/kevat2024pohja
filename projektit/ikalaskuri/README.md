@@ -4,7 +4,7 @@ Tämäkin tehtävä on haaste Frontend mentor sivulta.
 
 ## Haaste
 
-Tehtävänäsi on toteuttaa tämä ikälaskuri mahdollisimman lähelle suunnitelmia. 
+Tehtävänäsi on toteuttaa tämä ikälaskuri mahdollisimman lähelle suunnitelmia. Tavoitteena ei ole pikselilleen samanlainen lopputulos kuin suunnitelmassa, selkeä lopputulos riittää.
 
 Käyttäjän pitäisi pystyä:
 - Näkemään ikä vuosina, kuukausina ja päivinä lähettämällä voimassa oleva päivämäärä lomakkeen kautta.
